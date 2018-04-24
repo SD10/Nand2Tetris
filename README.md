@@ -5,7 +5,7 @@ This repository houses my work on the [Nand2Tetris](https://nand2tetris.org).
 ### Progress
 
 #### Project 4
-- [ ] Machine Language
+- [x] Machine Language
 
 #### Project 7
 - [ ] VM: Stack Arithmetic
